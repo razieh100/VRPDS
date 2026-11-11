@@ -57,6 +57,8 @@ cmake --build . -j
 }
 ```
 
+Benchmark instances: [download vrpds.zip](https://drive.google.com/file/d/1h5eqUD831vKB33vlsi-llwCBl4NWoHzp/view)
+
 ## Author
 
 Razieh Mousavi, PhD candidate, Université Laval / CIRRELT · [LinkedIn](https://www.linkedin.com/in/razieh-mousavi-603b6580)
