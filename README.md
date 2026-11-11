@@ -40,7 +40,7 @@ Requires a C++17 compiler, CMake ≥ 3.24, and IBM ILOG CPLEX (free for academic
 mkdir build && cd build
 cmake .. -DCPLEX_STUDIO_DIR=/path/to/CPLEX_Studio
 cmake --build . -j
-./vrpd3Feb <instance_file>
+./vrpds <instance_file>
 ```
 
 ## Citation
